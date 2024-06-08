@@ -1,4 +1,4 @@
-let imformation=[];
+let imformation=[{id:1,name:'yahaya'},{id:2,name:'musa'},{id:3,name:'isah'}];
 function Set(set){
     imformation.push(set)
 }
